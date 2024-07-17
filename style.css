@@ -1,0 +1,33 @@
+body{
+    margin: 10%;
+    background-color: hsl(212, 45%, 89%);}
+.card{
+    background-color: hsl(0, 0%, 100%);
+    width: 200px;
+    margin-top: 20%;
+     margin-left: 40%;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 30%;
+
+
+}
+.image{
+    width: inherit;
+    border-radius: inherit;
+}
+p{
+    font-family: "Outfit", sans-serif;
+    color: hsl(212, 45%, 89%);
+    font-size:smaller;
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    font-family: "Outfit", sans-serif;
+    font-size: medium;
+    
+    }
+
